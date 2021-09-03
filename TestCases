@@ -1,0 +1,24 @@
+Test name: Create new order
+
+Test Description: As a user for Beach T-Shirts co, I should be able to call a method to create a new order that accepts a numerical quantity of T-Shirts.
+
+Desired outcome: I should be able to verify on the Remix IDE that my new order has been
+created and the status has been set to âNewâ and Quantity has been set to the number I
+supplied.
+
+Actual outcome: On testing, I validated that the actual outcome matches the desired
+outcome
+
+Result: Pass
+
+Test name: To Updates all the order
+
+Test Description: Updates all the products as per product Id.
+
+Desired outcome: As soon as we add the product and quantity, it shows all the products which are added.  
+
+Actual outcome: On testing, I validated that the actual outcome matches the desired.
+outcome
+
+Result: Pass
+
